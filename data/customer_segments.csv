@@ -1,0 +1,725 @@
+customer_id,recency,frequency,monetary,total_quantity,category_diversity,avg_order_value,segment,segment_description
+1,2,21,1393.88,21,6,66.3752380952381,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+2,94,2,43.959999999999994,2,2,21.979999999999997,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+3,42,6,1083.49,9,4,180.58166666666668,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+4,60,3,562.08,4,3,187.36,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+5,7,10,591.14,10,4,59.114,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+6,1,18,1047.1299999999999,20,6,58.17388888888888,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+7,2,40,5249.67,57,6,131.24175,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+9,11,6,536.2,8,3,89.36666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+10,131,2,145.17000000000002,2,1,72.58500000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+11,1,55,5305.95,82,6,96.47181818181818,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+12,298,1,36.76,1,1,36.76,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+13,29,1,26.47,1,1,26.47,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+14,0,12,1659.73,14,6,138.31083333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+15,15,7,481.35,8,4,68.76428571428572,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+16,2,9,1316.7,10,5,146.3,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+17,1,17,1022.6999999999999,19,5,60.15882352941176,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+19,98,4,202.97,4,4,50.7425,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+20,0,8,456.67,9,3,57.08375,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+21,20,5,749.9,6,4,149.98,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+22,2,11,450.40000000000003,13,5,40.945454545454545,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+23,2,17,1504.26,19,6,88.48588235294118,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+24,3,16,1029.55,19,5,64.346875,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+25,87,1,555.59,1,1,555.59,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+26,158,3,282.65,4,3,94.21666666666665,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+27,0,13,831.14,13,4,63.933846153846154,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+28,152,2,543.04,3,2,271.52,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+30,0,40,3633.7200000000003,56,6,90.843,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+31,102,3,72.16,3,2,24.05333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+32,4,17,1567.29,18,6,92.1935294117647,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+33,3,51,6618.58,79,6,129.77607843137255,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+35,219,2,119.75999999999999,2,2,59.879999999999995,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+36,302,1,164.32,2,1,164.32,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+37,1,18,1661.4,23,4,92.30000000000001,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+38,0,35,2884.21,49,6,82.406,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+39,197,2,104.02,2,2,52.01,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+40,153,3,80.3,3,3,26.766666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+41,14,8,626.05,8,5,78.25625,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+42,62,5,450.17,5,5,90.034,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+43,5,37,4081.34,57,6,110.30648648648649,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+44,291,1,40.51,1,1,40.51,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+45,5,8,464.18,9,5,58.0225,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+46,51,4,259.15,4,3,64.7875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+47,0,13,1127.25,16,6,86.71153846153847,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+48,274,3,291.31,3,2,97.10333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+49,33,7,868.7299999999999,9,5,124.1042857142857,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+50,7,4,170.78,5,4,42.695,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+52,3,5,330.14,6,3,66.02799999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+55,207,2,61.09,2,2,30.545,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+57,0,37,3168.27,51,6,85.62891891891891,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+58,1,12,623.23,13,4,51.935833333333335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+59,0,26,2493.89,39,5,95.91884615384615,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+60,8,5,379.05,5,4,75.81,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+61,2,22,2328.5,25,6,105.8409090909091,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+62,5,21,2822.0,22,6,134.38095238095238,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+63,291,2,147.12,2,1,73.56,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+64,6,14,1443.84,16,6,103.13142857142857,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+65,7,11,691.38,12,4,62.85272727272727,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+66,84,3,254.89,4,3,84.96333333333332,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+67,1,10,484.95,11,3,48.495,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+69,1,43,3172.32,55,6,73.77488372093023,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+70,53,1,51.5,1,1,51.5,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+71,322,2,100.89,2,2,50.445,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+72,1,16,1297.93,17,6,81.120625,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+73,1,25,2750.85,33,6,110.03399999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+75,5,4,501.47,4,4,125.3675,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+76,67,4,415.84000000000003,5,3,103.96000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+77,333,2,62.96,3,1,31.48,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+78,0,26,1705.84,41,5,65.60923076923076,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+79,2,11,918.37,14,4,83.48818181818181,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+80,9,7,692.26,8,5,98.89428571428572,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+81,23,2,186.51,2,2,93.255,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+82,226,2,75.55000000000001,2,1,37.775000000000006,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+83,10,14,1181.0,14,5,84.35714285714286,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+84,1,30,4992.99,49,6,166.433,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+85,5,12,611.54,13,5,50.961666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+86,0,22,1462.7,25,5,66.48636363636363,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+87,189,3,122.73,3,3,40.910000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+88,74,5,235.81,5,4,47.162,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+89,333,1,85.03,1,1,85.03,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+90,36,3,125.24,3,2,41.74666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+91,0,20,1914.75,21,5,95.7375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+92,32,3,205.4,4,2,68.46666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+93,276,3,44.980000000000004,3,3,14.993333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+94,12,5,331.37,6,3,66.274,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+95,19,6,308.75,8,3,51.458333333333336,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+96,41,4,547.77,4,4,136.9425,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+97,90,6,475.03000000000003,6,4,79.17166666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+98,53,2,175.95,2,2,87.975,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+99,2,22,2065.78,34,6,93.89909090909092,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+100,0,13,1437.4,13,5,110.56923076923077,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+101,0,31,3312.66,43,6,106.86,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+102,121,3,170.58,3,2,56.86000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+103,2,9,630.27,10,5,70.03,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+104,13,5,298.0,6,4,59.6,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+105,164,1,116.61,2,1,116.61,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+106,8,12,653.15,12,5,54.42916666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+107,123,4,163.91,4,2,40.9775,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+108,58,4,326.61,5,3,81.6525,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+109,3,11,719.95,13,5,65.45,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+110,2,39,4530.27,61,6,116.16076923076925,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+111,4,13,1393.99,17,6,107.23,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+112,0,17,1123.29,19,5,66.07588235294118,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+113,229,1,10.7,1,1,10.7,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+114,273,1,15.24,1,1,15.24,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+115,149,2,42.13,2,2,21.065,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+117,148,3,60.2,3,1,20.066666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+118,4,16,1594.08,19,6,99.63,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+119,38,1,54.4,1,1,54.4,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+120,11,4,253.42000000000002,4,3,63.355000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+121,70,1,166.34,2,1,166.34,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+122,85,2,193.60999999999999,2,2,96.80499999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+123,0,12,1152.19,13,5,96.01583333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+124,4,10,528.62,12,6,52.862,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+125,7,16,1111.21,17,6,69.450625,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+126,215,2,114.60000000000001,2,2,57.300000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+127,169,3,100.67,3,3,33.556666666666665,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+128,134,1,126.86,2,1,126.86,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+129,0,38,6119.59,58,6,161.04184210526316,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+130,13,5,609.33,5,3,121.86600000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+131,262,2,109.97,3,1,54.985,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+132,1,13,1341.1399999999999,14,5,103.16461538461537,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+133,9,12,922.3100000000001,15,5,76.85916666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+134,1,13,1816.57,15,5,139.73615384615385,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+135,326,1,28.48,1,1,28.48,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+136,9,17,2295.92,20,5,135.05411764705883,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+137,62,5,389.45,7,3,77.89,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+138,110,2,217.34,2,2,108.67,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+139,4,11,978.7099999999999,13,5,88.97363636363636,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+140,114,1,125.31,2,1,125.31,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+142,0,15,1980.23,17,6,132.01533333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+144,0,9,963.78,10,5,107.08666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+145,15,8,441.58000000000004,8,4,55.197500000000005,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+146,0,34,2996.77,50,6,88.14029411764706,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+147,98,7,371.40000000000003,8,5,53.057142857142864,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+148,5,4,141.69,6,3,35.4225,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+149,4,23,2976.41,33,6,129.4091304347826,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+150,4,11,531.35,12,4,48.304545454545455,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+151,44,1,13.72,1,1,13.72,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+152,0,9,875.2900000000001,10,5,97.25444444444446,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+153,2,12,1363.38,13,5,113.61500000000001,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+154,32,6,497.89,7,5,82.98166666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+156,5,13,1438.31,16,6,110.63923076923076,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+157,39,4,252.83,4,4,63.2075,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+158,48,7,247.62,8,4,35.37428571428571,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+159,2,20,1344.48,25,6,67.224,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+160,291,1,11.4,1,1,11.4,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+161,0,8,816.65,9,4,102.08125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+162,44,7,353.0,7,4,50.42857142857143,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+164,105,2,199.06,2,1,99.53,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+165,12,18,2229.54,30,5,123.86333333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+166,90,1,13.73,1,1,13.73,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+167,0,19,1076.75,19,5,56.671052631578945,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+168,5,9,531.02,9,6,59.00222222222222,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+169,0,31,2834.63,50,5,91.43967741935484,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+170,84,5,212.6,5,5,42.519999999999996,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+171,82,2,82.58000000000001,2,2,41.290000000000006,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+172,3,43,5766.4800000000005,68,6,134.10418604651164,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+173,60,3,231.17000000000002,3,2,77.05666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+174,14,10,1282.83,12,4,128.283,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+176,22,7,397.03,7,5,56.71857142857142,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+177,13,2,111.69,3,2,55.845,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+178,0,14,1245.03,17,5,88.93071428571429,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+179,171,2,122.56,3,2,61.28,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+180,7,9,457.87,10,3,50.87444444444444,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+181,6,8,781.19,11,2,97.64875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+182,11,10,1072.21,12,6,107.221,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+183,16,2,128.3,2,1,64.15,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+184,356,1,18.12,1,1,18.12,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+185,3,16,1213.38,18,5,75.83625,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+186,56,5,290.38,5,3,58.076,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+187,305,1,341.53,1,1,341.53,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+188,97,4,500.34999999999997,5,3,125.08749999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+189,89,5,224.1,5,4,44.82,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+190,10,2,594.95,2,2,297.475,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+191,1,38,4698.25,64,6,123.63815789473684,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+193,215,1,148.34,1,1,148.34,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+194,82,7,649.83,8,4,92.83285714285715,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+195,2,8,946.6999999999999,9,5,118.33749999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+196,0,11,408.33,12,5,37.12090909090909,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+197,289,2,94.91,2,2,47.455,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+199,39,3,447.48,3,2,149.16,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+200,55,4,1041.03,5,3,260.2575,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+201,2,4,521.16,6,2,130.29,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+202,0,46,5948.5599999999995,71,6,129.31652173913042,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+203,6,8,920.78,12,5,115.0975,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+204,9,1,61.88,1,1,61.88,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+206,4,33,2479.11,50,6,75.12454545454545,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+207,3,14,1009.15,17,6,72.08214285714286,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+208,125,4,188.5,4,4,47.125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+209,0,16,2833.4700000000003,25,6,177.09187500000002,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+210,0,20,2129.19,25,6,106.4595,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+212,183,2,67.66,2,2,33.83,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+213,54,4,190.11,5,3,47.5275,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+214,5,8,571.4200000000001,9,6,71.42750000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+215,93,2,279.53000000000003,2,2,139.76500000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+216,0,21,1974.08,25,6,94.00380952380952,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+217,38,1,74.95,1,1,74.95,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+218,45,1,5.59,1,1,5.59,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+219,44,2,59.55,2,2,29.775,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+221,36,10,760.99,12,6,76.099,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+222,1,3,151.57,4,2,50.52333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+223,2,31,2446.9,46,5,78.93225806451613,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+224,14,4,208.70999999999998,5,4,52.177499999999995,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+225,1,17,1547.65,20,5,91.03823529411765,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+226,0,20,1263.03,22,6,63.1515,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+227,182,2,58.910000000000004,3,2,29.455000000000002,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+228,4,15,657.28,18,4,43.818666666666665,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+230,82,3,105.62,3,3,35.20666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+231,6,2,100.60000000000001,2,2,50.300000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+232,68,5,747.1099999999999,5,4,149.42199999999997,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+233,155,2,113.89,2,2,56.945,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+234,213,3,457.12,4,3,152.37333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+235,1,10,864.97,10,5,86.497,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+236,113,7,290.19,9,2,41.455714285714286,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+237,1,8,636.1,9,4,79.5125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+238,0,21,1234.05,33,5,58.76428571428571,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+239,0,1,58.64,2,1,58.64,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+240,14,9,426.19,10,4,47.35444444444445,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+241,227,2,561.73,2,2,280.865,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+242,30,1,34.47,1,1,34.47,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+243,61,2,179.01,3,2,89.505,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+244,1,14,954.05,18,5,68.14642857142857,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+245,0,34,4153.5599999999995,52,6,122.16352941176469,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+246,267,1,14.73,1,1,14.73,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+247,184,2,36.43,3,2,18.215,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+248,125,3,425.15999999999997,4,3,141.72,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+249,242,2,58.51,3,1,29.255,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+250,98,1,21.76,1,1,21.76,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+251,1,13,955.39,14,4,73.49153846153845,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+252,6,15,1496.1,18,6,99.74,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+254,6,10,1426.27,12,4,142.627,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+255,2,24,1190.33,28,6,49.59708333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+256,23,1,68.98,1,1,68.98,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+257,82,1,67.67,2,1,67.67,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+258,6,5,196.08,5,3,39.216,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+259,6,3,54.46,3,1,18.153333333333332,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+260,2,24,2444.04,34,6,101.835,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+261,169,2,32.08,2,1,16.04,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+263,0,21,1025.31,24,5,48.824285714285715,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+264,188,2,234.59,3,2,117.295,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+265,74,1,55.95,1,1,55.95,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+266,44,3,119.95,3,2,39.983333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+267,13,6,321.83,7,3,53.63833333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+268,12,5,180.16,8,3,36.032,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+269,3,5,423.05,5,4,84.61,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+270,1,12,672.77,13,6,56.064166666666665,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+272,102,2,96.12,2,2,48.06,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+273,105,2,90.19,2,1,45.095,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+275,68,3,165.96,3,2,55.32,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+276,112,2,427.39,2,2,213.695,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+277,105,6,1636.1100000000001,8,3,272.685,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+278,94,3,467.4,4,3,155.79999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+279,56,3,165.44,4,3,55.14666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+280,91,1,234.6,2,1,234.6,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+281,190,1,18.05,2,1,18.05,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+282,2,16,3387.12,18,6,211.695,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+283,2,10,1059.39,13,5,105.93900000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+284,0,33,3023.9700000000003,46,6,91.63545454545455,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+286,1,44,3737.04,65,6,84.93272727272728,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+287,68,4,320.49,4,4,80.1225,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+289,5,15,1420.58,17,6,94.70533333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+291,4,32,4451.46,51,6,139.108125,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+292,0,49,6863.72,77,6,140.07591836734696,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+293,139,2,434.53,2,2,217.265,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+294,0,13,921.95,14,6,70.91923076923078,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+295,5,19,1452.43,20,6,76.44368421052631,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+296,125,5,466.77,6,3,93.354,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+297,2,4,172.19,4,3,43.0475,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+298,1,17,1073.33,19,5,63.13705882352941,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+299,148,4,355.15,5,2,88.7875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+300,0,33,5874.63,52,5,178.01909090909092,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+301,0,37,5026.26,54,6,135.84486486486486,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+302,75,4,344.75000000000006,5,3,86.18750000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+303,12,7,463.13,8,4,66.16142857142857,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+304,33,1,57.02,1,1,57.02,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+305,27,5,198.27,5,3,39.654,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+307,284,1,18.07,1,1,18.07,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+308,3,7,340.15000000000003,9,4,48.59285714285715,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+309,92,9,746.6700000000001,11,4,82.96333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+310,1,24,1549.2,26,6,64.55,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+311,134,1,52.65,1,1,52.65,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+312,8,30,2427.87,44,6,80.929,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+313,1,35,3439.53,57,5,98.27228571428572,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+314,51,2,784.8799999999999,3,1,392.43999999999994,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+315,317,1,66.86,1,1,66.86,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+316,10,4,272.61,5,4,68.1525,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+317,226,6,365.66,7,4,60.943333333333335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+318,2,23,3071.35,28,6,133.5369565217391,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+319,0,14,1414.56,16,6,101.03999999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+320,4,18,1442.92,24,5,80.16222222222223,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+321,30,8,516.68,8,4,64.585,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+322,171,2,152.37,2,2,76.185,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+323,109,7,817.74,8,6,116.82000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+324,0,20,1738.77,24,6,86.9385,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+325,270,2,354.79999999999995,3,2,177.39999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+326,33,3,534.29,4,2,178.09666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+327,3,5,1342.44,6,4,268.488,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+328,201,2,26.39,2,1,13.195,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+329,118,2,132.41,2,2,66.205,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+330,0,21,1893.56,22,6,90.16952380952381,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+331,0,14,1416.69,16,5,101.19214285714285,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+332,174,6,279.67,7,2,46.61166666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+333,2,22,1950.32,32,6,88.65090909090908,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+334,3,14,871.89,15,4,62.277857142857144,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+335,0,18,1494.76,25,5,83.04222222222222,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+336,1,54,5241.84,84,6,97.07111111111111,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+337,46,4,148.87,4,4,37.2175,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+338,27,2,69.98,2,2,34.99,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+339,16,1,108.23,2,1,108.23,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+340,2,42,4309.83,61,6,102.615,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+341,4,8,768.62,10,5,96.0775,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+342,3,2,115.1,2,2,57.55,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+343,1,31,1803.56,32,5,58.17935483870968,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+344,248,4,246.55,6,3,61.6375,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+345,0,15,974.72,17,5,64.98133333333334,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+346,69,9,893.92,12,5,99.32444444444444,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+347,264,1,26.27,1,1,26.27,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+348,1,32,3287.36,52,6,102.73,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+349,3,5,266.63,6,3,53.326,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+350,160,5,424.31000000000006,6,4,84.86200000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+353,163,3,203.88,3,3,67.96,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+354,0,18,1531.61,21,6,85.08944444444444,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+355,5,27,2650.58,46,6,98.16962962962963,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+356,47,8,1407.08,9,6,175.885,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+357,0,39,5165.28,63,6,132.44307692307692,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+358,28,3,97.71000000000001,4,3,32.57,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+360,55,2,197.29,3,2,98.645,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+361,0,21,2206.86,24,6,105.08857142857144,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+362,21,5,709.19,5,4,141.83800000000002,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+363,70,2,32.25,3,1,16.125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+364,45,5,876.52,7,4,175.304,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+365,74,2,96.56,2,2,48.28,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+366,1,6,545.52,6,4,90.92,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+369,2,24,2506.2599999999998,31,6,104.4275,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+370,2,40,4191.02,59,6,104.77550000000001,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+371,1,18,1831.81,20,6,101.76722222222222,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+372,1,27,4810.639999999999,45,6,178.17185185185184,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+373,1,29,2205.74,41,6,76.05999999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+374,23,9,794.25,9,5,88.25,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+375,13,27,4046.5099999999998,48,6,149.87074074074073,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+376,2,7,709.54,7,6,101.36285714285714,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+378,1,28,3518.81,40,6,125.67178571428572,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+380,0,22,2657.56,25,6,120.79818181818182,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+381,1,22,1408.11,23,5,64.005,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+382,7,2,612.13,3,2,306.065,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+383,24,5,253.0,5,2,50.6,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+385,102,2,269.28999999999996,2,2,134.64499999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+386,160,2,133.17000000000002,3,2,66.58500000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+387,4,8,394.89,8,4,49.36125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+388,10,10,1367.44,11,6,136.744,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+389,236,1,83.05,1,1,83.05,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+391,111,1,47.7,1,1,47.7,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+392,32,4,141.16,5,2,35.29,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+393,6,9,484.26,10,4,53.806666666666665,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+394,19,5,368.19,7,4,73.638,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+395,0,16,2000.61,18,6,125.038125,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+398,38,6,529.3199999999999,6,4,88.21999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+399,133,2,83.80000000000001,2,2,41.900000000000006,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+400,31,2,145.72,2,2,72.86,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+401,1,17,1714.0,22,5,100.82352941176471,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+402,339,1,120.22,1,1,120.22,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+404,66,3,1034.79,5,2,344.93,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+405,1,16,1282.7,17,6,80.16875,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+406,339,2,128.66,3,2,64.33,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+407,0,25,2444.52,29,6,97.7808,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+408,1,21,2740.54,30,6,130.50190476190477,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+409,251,1,80.27,1,1,80.27,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+410,5,43,3864.31,62,6,89.86767441860465,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+411,2,7,347.53999999999996,7,3,49.64857142857142,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+412,50,1,53.72,1,1,53.72,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+413,230,1,109.88,1,1,109.88,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+414,131,2,122.57000000000001,3,2,61.285000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+415,58,6,397.63,7,4,66.27166666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+416,58,5,378.45000000000005,6,3,75.69000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+417,2,14,939.03,15,6,67.07357142857143,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+418,0,10,936.2,10,5,93.62,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+419,264,2,133.03,3,2,66.515,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+420,214,3,130.46,3,3,43.48666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+421,154,7,490.13,8,2,70.01857142857143,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+422,126,3,177.10999999999999,4,2,59.03666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+423,2,35,4965.01,51,6,141.85742857142858,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+424,133,3,162.19,3,2,54.06333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+425,0,34,3453.33,51,6,101.5685294117647,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+426,3,5,368.93,7,4,73.786,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+427,78,11,792.2,11,5,72.01818181818182,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+429,2,14,1119.07,16,5,79.93357142857143,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+430,0,16,1039.91,16,5,64.994375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+431,0,14,812.34,15,5,58.02428571428572,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+432,80,3,144.24,3,3,48.080000000000005,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+433,28,5,241.51,5,2,48.302,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+434,3,16,1283.74,17,6,80.23375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+435,4,19,3073.0,33,6,161.73684210526315,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+436,23,2,102.73,2,2,51.365,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+437,4,32,3197.24,49,6,99.91375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+439,26,6,250.12,9,4,41.68666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+440,1,27,2178.21,39,6,80.67444444444445,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+441,1,22,1474.1399999999999,30,5,67.00636363636363,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+442,144,2,27.080000000000002,2,2,13.540000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+443,8,6,434.43,7,3,72.405,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+444,11,9,660.55,9,5,73.39444444444445,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+445,70,1,21.43,1,1,21.43,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+446,348,1,46.03,1,1,46.03,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+447,21,1,30.89,1,1,30.89,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+448,21,4,609.0799999999999,4,4,152.26999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+449,2,9,497.21,10,5,55.245555555555555,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+450,3,43,4266.34,65,6,99.21720930232559,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+451,65,4,248.78,5,3,62.195,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+452,14,6,482.54,7,3,80.42333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+455,0,18,1579.27,20,5,87.73722222222221,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+456,12,2,234.47,4,1,117.235,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+457,0,56,6108.44,90,6,109.0792857142857,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+458,50,9,1190.03,11,5,132.22555555555556,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+459,0,32,4566.16,49,6,142.6925,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+460,5,11,1026.09,14,6,93.28090909090908,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+461,0,16,1099.5,20,4,68.71875,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+462,69,1,78.65,1,1,78.65,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+463,148,7,519.0400000000001,8,4,74.14857142857144,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+464,26,5,285.78,5,3,57.15599999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+465,95,2,121.95,2,2,60.975,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+466,0,9,895.5,10,5,99.5,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+467,4,9,404.49,10,5,44.943333333333335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+468,247,3,219.66,3,3,73.22,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+469,1,24,2903.09,28,6,120.96208333333334,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+470,32,2,50.95,2,2,25.475,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+471,1,32,3829.3900000000003,44,6,119.66843750000001,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+473,2,23,2181.34,31,5,94.8408695652174,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+474,8,2,463.40000000000003,2,2,231.70000000000002,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+475,267,3,540.09,4,2,180.03,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+476,4,3,191.89999999999998,3,3,63.96666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+477,6,36,4167.23,63,6,115.75638888888888,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+478,9,3,151.53,4,2,50.51,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+480,141,1,83.6,1,1,83.6,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+481,66,3,169.57,4,3,56.52333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+482,7,8,364.14,8,4,45.5175,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+483,20,6,721.8,6,3,120.3,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+484,80,2,132.57,2,1,66.285,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+485,364,1,158.04,1,1,158.04,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+487,8,27,2945.01,41,6,109.07444444444445,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+488,5,18,1238.52,19,6,68.80666666666667,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+489,172,1,31.68,1,1,31.68,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+490,38,2,64.67,2,1,32.335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+491,33,4,622.27,5,3,155.5675,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+492,54,5,462.14,7,4,92.428,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+493,0,16,1120.87,21,5,70.054375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+494,1,17,1548.91,21,5,91.11235294117648,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+495,235,4,290.26,5,2,72.565,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+496,4,16,1420.23,17,6,88.764375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+497,61,5,442.40999999999997,5,4,88.482,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+498,7,19,2876.5,25,6,151.39473684210526,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+501,143,5,285.31,5,2,57.062,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+502,257,2,305.22,2,2,152.61,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+503,3,12,992.49,14,6,82.7075,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+504,329,1,17.92,1,1,17.92,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+505,121,5,342.73,5,4,68.546,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+506,6,10,883.35,11,5,88.33500000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+507,100,2,200.22,3,1,100.11,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+508,206,3,201.55,3,2,67.18333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+510,137,4,740.44,6,4,185.11,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+511,111,2,87.6,3,2,43.8,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+512,29,7,430.40999999999997,8,6,61.48714285714285,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+515,0,42,4903.78,56,6,116.75666666666666,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+516,1,39,4228.14,54,6,108.41384615384617,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+517,7,8,613.21,9,5,76.65125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+518,257,1,21.32,1,1,21.32,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+519,113,3,154.25,3,2,51.416666666666664,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+520,0,7,624.55,7,5,89.22142857142856,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+521,296,2,181.16,2,1,90.58,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+522,1,6,351.3,6,4,58.550000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+523,31,6,440.31,6,4,73.385,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+524,129,2,132.7,3,1,66.35,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+526,21,11,780.9,13,3,70.99090909090908,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+527,10,7,338.76,9,4,48.394285714285715,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+528,0,14,1008.22,17,6,72.01571428571428,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+529,0,32,2698.81,46,6,84.3378125,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+531,223,1,82.1,1,1,82.1,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+532,197,1,40.54,1,1,40.54,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+533,288,1,22.62,1,1,22.62,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+535,104,3,577.62,3,2,192.54,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+537,355,1,105.59,1,1,105.59,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+538,4,12,732.36,13,4,61.03,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+539,217,1,18.28,1,1,18.28,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+540,7,13,1021.83,16,6,78.60230769230769,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+543,3,8,434.24,8,5,54.28,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+544,31,8,390.24,9,5,48.78,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+545,107,2,51.91,2,1,25.955,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+546,2,9,611.77,10,4,67.97444444444444,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+547,2,15,2198.82,17,5,146.58800000000002,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+548,220,4,427.02,5,4,106.755,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+549,200,2,227.71,4,2,113.855,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+550,112,3,1000.6700000000001,5,3,333.5566666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+551,151,2,101.49,2,2,50.745,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+553,75,3,155.82,3,2,51.94,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+554,15,3,268.04,4,2,89.34666666666668,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+556,52,2,35.64,2,1,17.82,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+557,8,8,461.67,9,4,57.70875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+558,1,33,2917.59,48,6,88.41181818181819,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+559,111,1,115.35,1,1,115.35,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+560,28,7,1370.27,8,5,195.75285714285715,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+561,76,3,473.64,3,3,157.88,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+562,5,16,1803.67,20,5,112.729375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+563,4,11,1844.73,14,4,167.7027272727273,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+564,1,46,5173.39,64,6,112.465,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+565,3,11,543.55,11,5,49.41363636363636,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+566,53,7,869.11,7,4,124.15857142857143,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+567,7,22,1886.6200000000001,24,6,85.75545454545455,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+568,24,7,397.57,7,4,56.79571428571428,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+569,45,3,219.70999999999998,3,3,73.23666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+570,1,28,3891.74,36,6,138.9907142857143,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+571,126,1,82.14,1,1,82.14,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+572,97,3,123.15,4,2,41.050000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+573,2,6,896.47,7,4,149.41166666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+574,169,2,75.22,2,2,37.61,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+575,64,2,110.63999999999999,2,1,55.31999999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+576,118,2,82.75999999999999,3,2,41.379999999999995,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+577,1,13,1183.35,13,5,91.02692307692307,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+578,57,1,52.34,1,1,52.34,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+579,158,5,617.0699999999999,5,4,123.41399999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+580,1,16,1323.3799999999999,19,6,82.71124999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+582,61,1,38.94,1,1,38.94,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+583,27,3,180.88,3,2,60.29333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+584,2,19,2170.96,24,5,114.26105263157895,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+586,2,11,1071.71,13,5,97.42818181818183,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+587,2,37,4519.33,61,6,122.14405405405405,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+588,3,15,1319.17,18,6,87.94466666666668,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+589,0,14,2222.0299999999997,15,5,158.71642857142857,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+590,2,17,1098.61,19,5,64.62411764705882,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+591,2,7,572.38,8,5,81.76857142857143,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+593,0,12,808.89,14,5,67.4075,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+594,3,25,2769.5,29,6,110.78,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+595,40,3,127.99,3,2,42.663333333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+596,71,6,328.85,8,4,54.80833333333334,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+597,85,2,88.28999999999999,2,2,44.144999999999996,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+598,1,21,2964.1200000000003,24,5,141.14857142857144,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+599,0,19,1251.28,21,6,65.85684210526315,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+600,2,26,2633.71,42,6,101.29653846153846,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+601,20,7,428.08,9,3,61.15428571428571,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+602,0,8,528.17,11,4,66.02125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+603,4,15,703.63,17,5,46.90866666666667,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+604,0,49,4560.0599999999995,79,6,93.06244897959182,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+605,5,16,1371.67,18,4,85.729375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+606,69,3,211.26,4,2,70.42,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+607,1,12,825.6,15,5,68.8,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+608,1,14,2263.6,16,4,161.68571428571428,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+609,150,3,62.63,3,2,20.87666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+610,20,2,103.49000000000001,2,2,51.745000000000005,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+611,5,20,1458.59,29,6,72.92949999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+612,107,6,482.9,7,4,80.48333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+613,75,5,358.76,5,2,71.752,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+614,0,34,4310.98,51,6,126.7935294117647,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+615,104,2,115.91,2,2,57.955,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+617,0,31,3690.39,47,6,119.04483870967742,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+618,0,16,1207.74,16,6,75.48375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+619,21,2,93.52,3,2,46.76,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+620,169,3,80.93,5,1,26.97666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+621,6,8,389.34000000000003,9,5,48.667500000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+622,6,13,992.62,15,4,76.35538461538462,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+623,6,16,1017.3399999999999,18,6,63.583749999999995,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+624,34,3,209.25,4,2,69.75,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+625,220,5,411.13,5,4,82.226,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+626,4,18,1398.16,20,5,77.67555555555556,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+627,52,4,163.55,4,2,40.8875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+628,43,3,234.42000000000002,3,2,78.14,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+629,0,26,4119.89,36,6,158.4573076923077,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+630,0,13,710.64,16,4,54.66461538461538,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+631,69,4,353.56,5,4,88.39,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+632,14,1,19.95,2,1,19.95,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+633,32,4,291.58,5,3,72.895,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+634,220,2,617.45,2,1,308.725,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+635,2,21,1739.0,23,6,82.80952380952381,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+636,6,6,435.49,6,5,72.58166666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+637,43,3,62.85,4,2,20.95,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+638,1,21,1462.82,22,5,69.65809523809523,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+639,3,10,755.11,11,5,75.511,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+640,2,17,1796.9499999999998,21,6,105.70294117647057,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+641,1,42,4806.11,60,6,114.43119047619047,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+642,4,7,450.46,8,2,64.35142857142857,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+643,4,15,1719.08,18,6,114.60533333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+644,2,15,1422.83,18,6,94.85533333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+645,1,12,1345.81,13,5,112.15083333333332,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+647,48,2,81.57,3,2,40.785,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+648,238,2,127.34,2,2,63.67,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+649,0,8,314.51,9,5,39.31375,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+650,0,4,297.3,4,3,74.325,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+651,0,18,1586.81,24,6,88.1561111111111,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+652,38,4,268.96,4,3,67.24,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+653,81,3,122.47,3,3,40.82333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+654,208,4,117.07000000000001,5,3,29.267500000000002,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+655,33,6,649.44,7,4,108.24000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+656,2,9,533.51,10,5,59.278888888888886,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+657,1,18,1230.92,23,5,68.38444444444445,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+658,1,10,701.51,10,6,70.151,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+659,2,5,500.13,6,4,100.026,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+660,7,4,189.65,4,2,47.4125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+661,0,6,976.7900000000001,6,3,162.79833333333335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+662,178,2,101.35999999999999,3,1,50.67999999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+663,34,7,598.14,8,4,85.44857142857143,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+664,9,10,758.38,12,5,75.838,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+665,5,24,1697.92,27,6,70.74666666666667,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+666,6,10,1227.6,10,6,122.75999999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+667,3,14,1435.73,17,5,102.55214285714285,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+668,3,19,954.1999999999999,21,5,50.22105263157894,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+669,0,16,1708.19,18,5,106.761875,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+670,2,10,885.81,12,4,88.58099999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+671,5,14,861.3100000000001,16,5,61.52214285714286,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+672,63,3,308.48,4,2,102.82666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+673,0,43,3368.9,59,6,78.34651162790698,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+674,45,3,173.66,4,3,57.88666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+675,219,5,244.39,5,3,48.878,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+676,300,1,116.25,1,1,116.25,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+677,0,16,1838.32,18,5,114.895,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+678,7,13,652.53,16,5,50.19461538461538,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+679,54,1,56.34,1,1,56.34,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+681,2,1,68.15,1,1,68.15,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+682,5,10,737.16,10,6,73.716,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+683,1,16,874.09,20,5,54.630625,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+684,57,2,113.36,2,2,56.68,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+685,265,1,92.52,1,1,92.52,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+686,56,3,104.4,3,2,34.800000000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+687,0,2,734.6,4,2,367.3,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+688,5,17,1341.64,19,5,78.92,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+689,46,10,572.13,14,5,57.213,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+690,4,19,1845.59,29,6,97.13631578947368,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+691,0,6,339.8,6,4,56.63333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+692,65,5,275.02,5,3,55.004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+693,119,3,414.53999999999996,3,3,138.17999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+694,3,10,1110.82,12,6,111.082,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+695,2,19,1319.11,20,6,69.42684210526315,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+696,5,3,414.0,4,3,138.0,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+697,2,13,702.79,16,5,54.060769230769225,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+698,35,6,582.47,7,5,97.07833333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+699,2,11,878.63,12,5,79.87545454545455,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+700,114,2,86.13000000000001,2,2,43.065000000000005,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+701,48,4,159.74,4,3,39.935,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+702,0,37,4262.51,60,6,115.20297297297297,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+703,8,11,730.78,14,4,66.43454545454546,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+704,2,15,1210.51,19,5,80.70066666666666,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+705,8,19,2454.82,30,6,129.20105263157896,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+707,5,24,1491.28,25,6,62.13666666666666,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+708,0,2,111.87,2,2,55.935,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+709,4,15,923.51,16,5,61.56733333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+710,32,3,179.62,3,2,59.873333333333335,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+711,126,2,141.59,3,1,70.795,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+712,224,5,322.56,6,4,64.512,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+713,95,5,101.76,5,4,20.352,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+714,222,3,308.97,3,2,102.99000000000001,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+715,15,8,819.18,10,4,102.3975,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+717,149,1,64.71,1,1,64.71,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+718,119,2,45.94,3,2,22.97,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+719,7,11,848.38,13,5,77.12545454545455,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+720,23,8,595.27,9,4,74.40875,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+721,114,2,153.14,2,2,76.57,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+722,12,8,411.14,8,4,51.3925,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+723,1,20,1999.73,26,6,99.9865,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+724,48,7,907.2,7,4,129.6,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+725,9,3,127.42,3,3,42.473333333333336,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+726,211,4,152.67000000000002,4,3,38.167500000000004,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+727,18,5,688.7900000000001,6,3,137.758,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+728,98,7,338.88,8,4,48.41142857142857,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+729,2,12,1619.71,14,5,134.97583333333333,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+730,0,22,2343.96,27,5,106.54363636363637,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+731,3,16,1276.87,19,5,79.804375,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+733,63,6,142.89,6,4,23.814999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+734,26,5,242.23,6,2,48.446,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+735,1,12,1613.38,13,6,134.44833333333335,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+736,52,2,348.2,2,2,174.1,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+737,6,11,483.98,11,5,43.99818181818182,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+738,261,2,175.49,2,1,87.745,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+739,211,2,178.53,3,1,89.265,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+740,2,14,1870.41,15,6,133.6007142857143,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+742,10,5,1303.8600000000001,8,4,260.77200000000005,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+743,178,2,1369.85,3,1,684.925,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+744,173,4,187.82,6,3,46.955,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+745,4,18,1478.6,22,5,82.14444444444445,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+747,11,16,842.89,16,5,52.680625,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+748,61,4,433.6,4,2,108.4,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+749,76,1,18.23,1,1,18.23,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+750,27,5,672.9,5,4,134.57999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+751,2,15,579.12,15,5,38.608,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+752,2,4,109.83,4,3,27.4575,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+753,272,3,393.08,3,3,131.02666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+754,10,14,825.35,16,5,58.95357142857143,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+755,4,9,470.05,9,4,52.22777777777778,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+757,41,3,143.38,3,3,47.79333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+758,221,2,65.87,2,2,32.935,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+759,220,1,72.2,1,1,72.2,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+760,356,1,254.72,1,1,254.72,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+761,0,17,1248.1399999999999,18,6,73.41999999999999,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+762,20,17,1209.77,17,5,71.16294117647058,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+763,22,8,363.87,10,3,45.48375,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+764,47,5,749.4599999999999,5,4,149.892,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+765,0,32,4872.969999999999,55,6,152.28031249999998,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+766,89,8,528.92,8,5,66.115,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+767,133,3,109.16,3,3,36.38666666666666,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+768,71,4,340.74,6,3,85.185,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+769,4,12,859.94,16,5,71.66166666666668,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+771,4,9,567.4,9,6,63.044444444444444,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+772,228,1,85.54,1,1,85.54,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+773,9,5,282.34,6,3,56.467999999999996,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+774,8,8,1673.77,11,4,209.22125,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+775,52,5,1079.35,7,3,215.86999999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+776,3,6,339.81,7,4,56.635,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+777,2,11,927.02,16,5,84.27454545454545,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+778,238,1,93.67,1,1,93.67,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+779,58,2,254.26,3,2,127.13,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+780,3,6,150.0,7,4,25.0,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+781,217,2,10.0,2,2,5.0,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+782,113,4,920.9499999999999,6,3,230.23749999999998,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+783,0,26,2177.7400000000002,35,6,83.75923076923078,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+784,1,17,1669.92,17,6,98.23058823529412,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+785,3,20,971.4100000000001,23,5,48.5705,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+787,40,6,363.90999999999997,6,4,60.651666666666664,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+788,53,3,252.81,3,2,84.27,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+789,279,2,37.07,2,1,18.535,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+790,167,2,162.88,3,1,81.44,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+791,1,14,748.55,17,5,53.46785714285714,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+792,107,3,119.27,3,3,39.75666666666667,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+793,147,4,482.01,4,4,120.5025,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+794,73,1,128.5,1,1,128.5,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+795,0,15,957.4,21,5,63.82666666666667,0,"VIP Customers: High value, frequent, recent buyers. Focus on retention and premium offerings."
+796,91,2,630.0,2,2,315.0,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+797,7,1,6.86,1,1,6.86,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+798,162,3,287.5,3,3,95.83333333333333,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+799,91,1,9.69,1,1,9.69,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
+800,118,2,502.46999999999997,2,2,251.23499999999999,1,Moderate Customers: Average engagement level. Consider targeted promotions to increase activity.
